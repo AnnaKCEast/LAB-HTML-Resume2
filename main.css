@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(209, 247, 250);
+  }
+h1 {
+  color:rgb(91, 3, 206);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic
+  }
+#roosters {
+  font-family:cursive;
+  border-style: dotted;
+  color:rgba(178, 11, 184, 0.79);
+  border-style:dotted;
+  font-style:ridge;
+  }
+#cpr {
+  font-family:Trebuchet MS;
+  color:rgb(34, 151, 65);
+  border-width: 10px;
+  border-style:dashed;
+  font-style: oblique;
+  }
+#symphony {
+    font-family: lucinda-handwriting;
+    color:rgb(156, 56, 138);
+    font-style: italic;
+    border-style:groove;
+    border-width: 15px;
+  }
